@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-from: #0f172a; /* slate-900 */
+  --bg-to: #1f2937;   /* slate-800-ish */
+}
+body { @apply bg-slate-900 text-white; }

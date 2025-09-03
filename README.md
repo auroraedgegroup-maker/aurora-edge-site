@@ -13,3 +13,4 @@ Open http://localhost:3000
 - You’ll get a free URL like `https://aurora-edge-site.vercel.app`.
 
 Replace `public/aurora-edge-logo.png` with your real logo when ready.
+Deployed with Vercel 🚀
